@@ -15,7 +15,7 @@ Este proyecto contiene la estructura de una base de datos para un comercio elect
 - **ERD/**: Contiene el diagrama de entidad-relación de la base de datos.
   - `erd_diagram.png`: Diagrama de entidad-relación de la base de datos.
   - `erd-Ecommerce.jpg`: Diagrama de entidad-relación de la base de datos.
-- **Document**: Documentación principal está disponible en formato PDF.
+- **Document/**: Documentación principal está disponible en formato PDF.
   - `Ecommerce-BrianOgas`:PDF que contiene la documentación del proyecto.
 - **README.md**: Este archivo.
 
