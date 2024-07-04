@@ -1,0 +1,501 @@
+product_id,name,description,price,category_id,stock_quantity,created_at,updated_at
+1,Telefono movil,Stainless steel water bottle,19.86,6,741,2021-04-10 22:31:36,2022-04-02 13:04:43
+2,Tablet,Soft cotton t-shirt,530.83,3,515,2021-12-02 03:17:33,2022-01-18 20:40:01
+3,Smartwatch,Soft cotton t-shirt,339.37,18,703,2021-08-27 10:52:46,2022-09-02 20:47:06
+4,Camara digital,Leather wallet,227.6,17,181,2021-07-31 10:06:15,2022-07-23 17:01:06
+5,Auriculares Bluetooth,Stainless steel water bottle,8.89,20,112,2021-07-13 19:16:04,2022-09-13 21:20:29
+6,Altavoz portatil,Leather wallet,809.85,1,242,2021-03-23 03:20:36,2022-03-28 21:00:42
+7,Power bank,Stainless steel water bottle,506.15,9,283,2021-06-29 05:35:55,2022-01-08 07:20:44
+8,Televisor LED,Soft cotton t-shirt,792.87,19,728,2021-05-29 19:42:48,2022-08-19 08:13:37
+9,Proyector,Leather wallet,220.3,13,467,2021-01-21 14:43:47,2022-04-02 15:36:42
+10,Reproductor de Blu-ray,Stainless steel water bottle,397.21,13,647,2021-10-15 21:33:27,2022-04-27 18:08:18
+11,Consola de videojuegos,Leather wallet,379.77,13,686,2021-06-04 20:27:11,2022-05-29 15:21:07
+12,Controlador de videojuegos,Soft cotton t-shirt,730.81,16,58,2021-09-02 13:16:17,2022-11-06 17:35:11
+13,Tarjeta de memoria SD,Soft cotton t-shirt,849.03,16,714,2021-01-10 17:45:28,2022-01-12 22:45:51
+14,Drone con camara,Stainless steel water bottle,157.36,17,296,2021-10-27 07:40:46,2022-05-13 07:07:05
+15,Camara de accion,Leather wallet,630.13,1,642,2021-12-15 02:29:06,2022-10-13 14:51:17
+16,Gimbal para camaras,Leather wallet,90.95,11,54,2021-11-11 10:55:19,2022-05-30 04:43:09
+17,Camara instantanea,Leather wallet,993.78,13,685,2021-10-11 14:34:44,2022-02-26 11:24:33
+18,E-reader,Soft cotton t-shirt,184.97,11,747,2021-05-20 16:50:15,2022-07-16 06:02:52
+19,Videocamara,Leather wallet,869.21,18,533,2021-09-27 10:00:57,2022-05-23 11:31:21
+20,Reproductor de musica portátil,Scented candle,222.39,6,873,2021-08-25 10:39:31,2022-11-09 07:39:22
+21,Ordenador portatil,Soft cotton t-shirt,175.43,1,427,2021-05-19 15:12:14,2022-09-28 04:23:13
+22,Ordenador de sobremesa,Ceramic coffee mug,821.41,18,422,2021-06-09 10:03:11,2022-03-01 06:45:48
+23,Monitor,Leather wallet,127.63,19,767,2021-08-09 09:15:33,2022-08-28 04:53:19
+24,Impresora multifuncion,Soft cotton t-shirt,813.27,7,263,2021-08-14 07:44:37,2022-08-10 02:30:45
+25,Teclado mecanico,Soft cotton t-shirt,402.71,10,887,2021-10-12 07:21:46,2022-01-06 08:24:29
+26,Raton gaming,Handcrafted wooden picture frame,210.54,19,342,2021-08-15 10:57:24,2022-08-06 01:40:55
+27,Disco duro externo,Scented candle,592.56,11,731,2021-11-27 04:19:36,2022-06-28 11:36:32
+28,SSD interno,Soft cotton t-shirt,964.42,6,692,2021-09-21 00:10:43,2022-03-01 05:48:00
+29,Router WiFi,Soft cotton t-shirt,457.8,15,685,2021-08-13 14:14:36,2022-06-02 12:10:11
+30,Modem,Scented candle,429.45,8,843,2021-09-23 20:27:12,2022-09-22 02:30:35
+31,Tableta grafica,Handcrafted wooden picture frame,261.32,16,637,2021-03-14 07:23:52,2022-07-12 11:08:13
+32,Webcam,Leather wallet,938.01,4,375,2021-05-23 02:47:21,2022-02-12 09:14:48
+33,Microfono USB,Soft cotton t-shirt,406.36,2,758,2021-03-10 20:18:10,2022-05-20 23:54:01
+34,Altavoces de ordenador,Ceramic coffee mug,581.81,13,314,2021-03-12 04:58:16,2022-01-25 17:38:28
+35,Hub USB,Leather wallet,789.61,4,568,2021-04-13 17:18:46,2022-06-10 03:50:18
+36,Cables HDMI,Ceramic coffee mug,309.64,20,581,2021-12-15 19:41:32,2022-09-01 04:49:43
+37,Adaptador USB-C,Stainless steel water bottle,261.26,17,269,2021-08-11 03:38:05,2022-04-05 15:43:18
+38,Base de refrigeracion para portatil,Ceramic coffee mug,372.76,9,544,2021-09-27 11:04:27,2022-05-26 17:13:11
+39,Mochila para portatil,Ceramic coffee mug,845.2,13,733,2021-05-15 23:05:48,2022-12-04 15:36:30
+40,Funda para Tablet,Leather wallet,447.13,11,938,2021-12-21 00:06:28,2022-06-07 20:22:27
+41,Cafetera espresso,Handcrafted wooden picture frame,448.84,20,966,2021-05-12 14:15:27,2022-05-09 09:27:45
+42,Batidora de mano,Ceramic coffee mug,761.62,2,126,2021-08-20 23:37:41,2022-02-04 07:36:59
+43,Licuadora,Stainless steel water bottle,42.97,10,680,2021-07-12 02:52:56,2022-09-25 03:30:51
+44,Freidora de aire,Leather wallet,850.39,1,562,2021-12-29 03:51:51,2022-05-06 02:48:43
+45,Olla de coccion lenta,Stainless steel water bottle,994.61,3,135,2021-03-21 22:13:20,2022-08-03 03:47:06
+46,Tostadora,Soft cotton t-shirt,958.39,17,62,2021-06-28 07:18:13,2022-12-08 08:55:47
+47,Hervidor electrico,Scented candle,665.54,15,737,2021-04-22 01:18:19,2022-06-24 12:16:29
+48,Robot de cocina,Ceramic coffee mug,500.64,16,572,2021-10-03 05:28:00,2022-09-29 13:43:31
+49,Plancha de vapor,Soft cotton t-shirt,45.96,19,985,2021-12-04 12:27:28,2022-02-12 06:01:13
+50,Aspiradora sin bolsa,Soft cotton t-shirt,431.77,18,85,2021-05-03 13:54:00,2022-10-03 14:06:06
+51,Robot aspirador,Stainless steel water bottle,673.06,5,31,2021-01-08 23:25:27,2022-08-07 19:32:08
+52,Microondas,Soft cotton t-shirt,555.06,5,663,2021-07-21 14:48:55,2022-06-04 07:59:50
+53,Horno electrico,Ceramic coffee mug,883.71,20,326,2021-05-21 07:54:49,2022-11-30 23:56:19
+54,Exprimidor de citricos,Scented candle,676.23,16,67,2021-09-07 01:57:03,2022-03-27 14:46:09
+55,Parrilla electrica,Handcrafted wooden picture frame,569.46,14,865,2021-03-15 04:31:38,2022-06-10 10:13:32
+56,Cuchillo de chef,Stainless steel water bottle,364.93,16,175,2021-02-05 08:18:45,2022-07-22 12:01:45
+57,Tabla de cortar,Ceramic coffee mug,480.76,14,345,2021-01-30 21:57:47,2022-02-01 02:51:56
+58,Juego de utensilios de cocina,Leather wallet,254.88,4,302,2021-06-09 10:34:44,2022-02-22 08:48:47
+59,Juego de sartenes,Ceramic coffee mug,796.76,20,557,2021-11-26 11:48:28,2022-01-22 20:42:35
+60,Olla a presión,Leather wallet,312.78,7,193,2021-04-13 12:45:49,2022-02-24 13:21:47
+61,Lavadora,Soft cotton t-shirt,968.23,11,811,2021-10-21 12:01:00,2022-10-11 23:14:28
+62,Secadora,Scented candle,479.67,6,352,2021-11-10 19:19:54,2022-01-26 09:39:47
+63,Frigorifico,Stainless steel water bottle,640.33,19,415,2021-09-28 02:59:55,2022-12-21 05:42:57
+64,Lavavajillas,Ceramic coffee mug,220.33,8,373,2021-09-07 05:28:42,2022-10-14 02:42:32
+65,Congelador,Handcrafted wooden picture frame,319.03,8,410,2021-12-17 13:03:59,2022-05-29 12:14:52
+66,Horno empotrado,Stainless steel water bottle,270.42,3,741,2021-05-09 07:27:40,2022-04-02 17:30:49
+67,Placa de induccion,Soft cotton t-shirt,779.84,19,505,2021-02-21 15:51:49,2022-03-08 03:10:52
+68,Campana extractora,Scented candle,447.95,10,961,2021-05-15 16:37:49,2022-05-14 08:50:40
+69,Aire acondicionado portatil,Stainless steel water bottle,88.62,10,513,2021-09-28 21:34:56,2022-08-27 09:09:55
+70,Ventilador de torre,Soft cotton t-shirt,708.54,7,875,2021-01-16 00:26:43,2022-05-28 12:53:15
+71,Calefactor electrico,Handcrafted wooden picture frame,815.51,8,468,2021-05-01 15:47:25,2022-05-08 06:54:22
+72,Humidificador,Handcrafted wooden picture frame,112.88,8,809,2021-08-01 12:45:47,2022-01-24 01:00:32
+73,Deshumidificador,Soft cotton t-shirt,609.4,10,908,2021-07-06 21:13:15,2022-04-24 12:38:37
+74,Purificador de aire,Soft cotton t-shirt,749.68,20,187,2021-05-28 21:49:21,2022-02-20 14:12:51
+75,Termo electrico,Soft cotton t-shirt,242.55,12,247,2021-08-14 03:15:24,2022-06-24 16:55:14
+76,Plancha de ropa,Ceramic coffee mug,539.56,11,132,2021-02-25 09:53:38,2022-04-01 21:27:32
+77,Centro de planchado,Leather wallet,442.18,12,225,2021-12-07 20:28:53,2022-07-20 13:16:12
+78,Lavadora-secadora,Leather wallet,10.17,20,585,2021-01-30 02:18:23,2022-05-14 02:16:10
+79,Enfriador de vino,Soft cotton t-shirt,157.71,17,408,2021-12-21 19:08:13,2022-03-18 23:40:35
+80,Secador de pelo,Scented candle,683.23,9,430,2021-11-09 06:17:36,2022-05-13 13:14:50
+81,Sofa de tres plazas,Handcrafted wooden picture frame,866.45,12,734,2021-11-16 11:52:22,2022-09-18 12:52:25
+82,Mesa de comedor,Scented candle,268.88,18,355,2021-03-19 12:18:15,2022-04-11 17:15:33
+83,Sillas de comedor,Leather wallet,644.4,18,916,2021-12-05 01:17:33,2022-02-15 07:20:38
+84,Estanteria modular,Leather wallet,368.57,15,333,2021-12-20 14:02:58,2022-01-02 10:15:25
+85,Cama doble,Stainless steel water bottle,365.13,17,203,2021-05-25 05:38:43,2022-07-30 10:33:25
+86,Mesita de noche,Soft cotton t-shirt,529.89,19,263,2021-02-11 13:13:04,2022-11-13 23:18:07
+87,Escritorio de oficina,Ceramic coffee mug,945.82,13,471,2021-06-10 08:22:54,2022-08-15 18:01:22
+88,Silla ergonomica,Soft cotton t-shirt,281.0,10,663,2021-04-17 10:43:23,2022-11-30 02:15:34
+89,Comoda,Leather wallet,485.32,4,595,2021-06-25 10:23:28,2022-03-17 20:16:45
+90,Armario ropero,Ceramic coffee mug,387.75,10,22,2021-06-15 04:02:12,2022-03-07 00:47:56
+91,Lampara de pie,Soft cotton t-shirt,254.38,20,489,2021-08-05 01:02:17,2022-02-25 14:59:53
+92,Lampara de techo,Leather wallet,552.69,9,313,2021-02-16 12:55:32,2022-07-13 14:20:08
+93,Alfombra decorativa,Scented candle,886.35,6,458,2021-03-10 01:36:44,2022-07-04 02:55:41
+94,Cortinas opacas,Ceramic coffee mug,448.55,14,838,2021-06-06 07:00:58,2022-11-11 12:44:48
+95,Cojines decorativos,Ceramic coffee mug,66.97,15,247,2021-05-13 21:11:08,2022-07-21 08:32:33
+96,Espejo de pared,Leather wallet,38.86,10,208,2021-09-27 22:35:22,2022-05-02 06:34:47
+97,Cuadro decorativo,Stainless steel water bottle,224.9,1,834,2021-04-14 10:13:42,2022-11-10 18:22:27
+98,Reloj de pared,Scented candle,165.6,15,174,2021-04-09 22:15:15,2022-09-05 20:26:57
+99,Jarron de ceramica,Stainless steel water bottle,25.85,16,983,2021-06-09 21:29:07,2022-02-26 23:04:23
+100,Planta artificial,Stainless steel water bottle,58.98,9,794,2021-11-08 19:14:03,2022-07-27 09:01:47
+101,Bicicleta de montana,Leather wallet,856.49,18,714,2021-03-28 08:44:51,2022-12-23 00:31:18
+102,Bicicleta estatica,Stainless steel water bottle,562.75,13,177,2021-08-12 05:21:50,2022-10-01 02:13:20
+103,Cinta de correr,Leather wallet,394.24,8,641,2021-12-09 01:11:52,2022-11-15 20:36:34
+104,Mancuernas ajustables,Stainless steel water bottle,933.86,11,560,2021-10-28 12:15:42,2022-12-06 18:35:25
+105,Esterilla de yoga,Stainless steel water bottle,409.85,8,826,2021-01-08 22:50:23,2022-12-26 15:36:57
+106,Pelota de ejercicio,Handcrafted wooden picture frame,221.66,7,640,2021-12-09 20:11:47,2022-04-26 05:15:39
+107,Set de pesas rusas,Handcrafted wooden picture frame,459.25,11,246,2021-08-23 21:45:11,2022-01-31 07:54:23
+108,Banco de pesas,Stainless steel water bottle,591.53,15,58,2021-10-18 20:45:19,2022-03-19 15:46:42
+109,Bicicleta eliptica,Scented candle,98.57,15,384,2021-02-08 11:12:39,2022-09-21 22:44:27
+110,Saco de boxeo,Scented candle,893.94,3,503,2021-10-04 02:31:48,2022-03-27 14:03:36
+111,Guantes de boxeo,Handcrafted wooden picture frame,73.79,10,752,2021-04-10 22:51:52,2022-09-16 15:05:11
+112,Cuerda para saltar,Leather wallet,675.03,18,808,2021-07-30 07:13:22,2022-09-18 20:44:49
+113,Patinete electrico,Stainless steel water bottle,305.25,20,394,2021-08-13 00:13:29,2022-09-11 09:28:40
+114,Monopatin,Scented candle,469.2,14,947,2021-06-01 11:42:08,2022-11-21 15:54:26
+115,Tienda de campana,Handcrafted wooden picture frame,962.12,14,332,2021-03-25 11:45:02,2022-06-30 17:36:19
+116,Saco de dormir,Leather wallet,835.56,20,610,2021-01-03 01:06:39,2022-02-03 17:49:32
+117,Mochila de senderismo,Stainless steel water bottle,49.74,6,862,2021-04-24 05:08:29,2022-03-23 16:22:06
+118,Bastones de trekking,Ceramic coffee mug,832.18,15,632,2021-08-30 04:00:12,2022-09-27 01:03:13
+119,Linterna frontal,Stainless steel water bottle,107.47,11,723,2021-11-17 21:35:09,2022-10-26 02:28:43
+120,Gafas de sol deportivas,Handcrafted wooden picture frame,796.58,4,70,2021-03-04 00:10:34,2022-01-04 19:55:44
+121,Secador de pelo profesional,Stainless steel water bottle,440.91,13,115,2021-08-10 13:25:25,2022-01-17 15:15:07
+122,Plancha de pelo,Stainless steel water bottle,794.71,2,902,2021-01-05 21:17:49,2022-03-21 00:53:39
+123,Rizador de pelo,Ceramic coffee mug,807.68,12,75,2021-09-20 12:35:06,2022-09-22 10:06:22
+124,Cortapelos,Soft cotton t-shirt,225.86,15,835,2021-08-07 10:44:31,2022-03-15 09:32:08
+125,Maquinilla de afeitar electrica,Ceramic coffee mug,93.19,2,845,2021-06-13 16:35:28,2022-06-22 18:04:32
+126,Cepillo de dientes electrico,Handcrafted wooden picture frame,644.12,6,995,2021-03-30 18:00:37,2022-05-11 14:10:33
+127,Espejo con luz LED,Stainless steel water bottle,951.82,6,845,2021-07-27 09:28:54,2022-11-02 02:12:26
+128,Set de brochas de maquillaje,Handcrafted wooden picture frame,456.05,19,558,2021-07-26 18:47:30,2022-09-13 07:33:46
+129,Paleta de sombras,Soft cotton t-shirt,484.18,3,417,2021-01-30 19:01:58,2022-10-16 18:55:17
+130,Labial mate,Stainless steel water bottle,161.6,1,403,2021-05-03 21:53:53,2022-04-15 13:44:50
+131,Suero facial,Leather wallet,390.62,8,706,2021-05-11 14:44:20,2022-05-22 00:03:35
+132,Crema hidratante,Scented candle,427.24,6,527,2021-12-13 03:14:46,2022-08-01 23:53:58
+133,Aceite esencial,Stainless steel water bottle,708.23,17,660,2021-07-30 13:35:19,2022-01-07 20:15:20
+134,Mascarilla facial,Leather wallet,808.12,4,844,2021-12-13 12:32:41,2022-11-02 18:57:48
+135,Exfoliante corporal,Scented candle,928.5,13,250,2021-11-24 17:25:16,2022-04-14 09:57:52
+136,Locion corporal,Soft cotton t-shirt,389.24,19,712,2021-11-28 14:51:57,2022-04-10 09:52:37
+137,Jabon artesanal,Stainless steel water bottle,30.56,11,597,2021-02-21 15:01:18,2022-06-27 02:26:04
+138,Perfume,Leather wallet,934.69,13,285,2021-03-19 21:43:23,2022-09-11 01:30:15
+139,Crema de manos,Soft cotton t-shirt,490.41,7,384,2021-01-23 20:13:18,2022-12-13 20:35:10
+140,Lima de unas eléctrica,Stainless steel water bottle,482.2,2,568,2021-07-31 16:37:07,2022-06-09 22:43:24
+141,Camiseta basica,Ceramic coffee mug,573.59,2,84,2021-11-14 19:32:16,2022-01-21 10:19:55
+142,Pantalones vaqueros,Handcrafted wooden picture frame,879.98,6,404,2021-05-25 12:20:48,2022-12-16 05:35:45
+143,Chaqueta de cuero,Ceramic coffee mug,622.77,18,564,2021-03-11 05:28:31,2022-03-08 00:07:00
+144,Abrigo de invierno,Scented candle,719.05,5,905,2021-02-28 10:48:40,2022-12-13 02:59:35
+145,Vestido de noche,Leather wallet,77.43,15,261,2021-06-07 15:54:39,2022-02-09 00:16:50
+146,Traje de bano,Handcrafted wooden picture frame,931.82,12,333,2021-09-16 10:29:52,2022-03-05 23:44:52
+147,Zapatillas deportivas,Stainless steel water bottle,894.44,7,779,2021-09-17 09:34:47,2022-02-20 03:32:44
+148,Botas de montana,Stainless steel water bottle,342.55,1,813,2021-03-23 10:54:07,2022-01-29 03:56:49
+149,Sandalias de verano,Handcrafted wooden picture frame,142.32,12,993,2021-06-13 12:02:04,2022-10-02 22:11:13
+150,Mochila casual,Handcrafted wooden picture frame,382.51,6,792,2021-12-26 20:30:55,2022-03-31 12:44:49
+151,Bolso de mano,Ceramic coffee mug,88.16,16,531,2021-03-01 22:44:23,2022-05-28 14:27:13
+152,Cartera de cuero,Soft cotton t-shirt,663.06,14,322,2021-07-01 05:25:18,2022-08-06 18:08:15
+153,Reloj de pulsera,Scented candle,513.13,17,767,2021-08-26 23:34:27,2022-02-27 06:26:41
+154,Gafas de sol,Leather wallet,504.33,6,605,2021-12-13 16:18:54,2022-08-22 12:15:07
+155,Sombrero de paja,Ceramic coffee mug,903.05,19,824,2021-03-29 09:53:45,2022-10-18 00:19:44
+156,Bufanda de lana,Stainless steel water bottle,824.93,9,439,2021-01-27 00:26:41,2022-11-13 10:35:19
+157,Guantes de invierno,Handcrafted wooden picture frame,735.65,1,98,2021-10-14 19:00:13,2022-03-24 05:26:43
+158,Cinturon de cuero,Leather wallet,872.89,17,346,2021-05-18 01:13:38,2022-01-16 13:17:07
+159,Corbata de seda,Scented candle,430.56,19,655,2021-05-12 04:06:20,2022-01-22 06:05:12
+160,Paraguas plegable,Stainless steel water bottle,936.9,18,233,2021-12-22 12:36:45,2022-03-07 17:03:06
+161,Lego,Handcrafted wooden picture frame,834.59,7,426,2021-08-01 13:30:19,2022-06-20 23:45:04
+162,Muneca Barbie,Leather wallet,306.81,18,738,2021-04-26 12:31:47,2022-03-25 09:50:11
+163,Juego de mesa Monopoly,Ceramic coffee mug,625.75,11,27,2021-07-16 13:39:00,2022-04-26 14:33:11
+164,Puzzle de 1000 piezas,Scented candle,296.67,17,947,2021-08-04 19:07:58,2022-05-20 09:48:56
+165,Juguete de construccion,Handcrafted wooden picture frame,369.84,17,197,2021-04-28 15:26:51,2022-12-16 09:21:32
+166,Peluche de animales,Soft cotton t-shirt,780.37,16,236,2021-07-25 16:12:00,2022-11-05 20:36:25
+167,Juguete educativo,Soft cotton t-shirt,42.31,8,676,2021-12-28 09:03:39,2022-04-23 11:51:28
+168,Coches de juguete,Soft cotton t-shirt,726.68,12,552,2021-09-10 08:49:30,2022-03-22 15:26:02
+169,Tren electrico,Stainless steel water bottle,285.79,5,920,2021-07-15 15:39:55,2022-08-04 11:11:29
+170,Set de plastilina,Stainless steel water bottle,164.86,15,135,2021-03-19 07:11:11,2022-07-16 19:19:29
+171,Juego de cartas,Soft cotton t-shirt,876.83,9,630,2021-11-24 07:45:29,2022-02-11 08:59:19
+172,Rompecabezas 3D,Soft cotton t-shirt,434.57,7,759,2021-09-03 15:36:35,2022-06-24 05:41:08
+173,Juguete de cocina,Handcrafted wooden picture frame,11.9,8,697,2021-02-28 21:53:28,2022-02-25 16:41:49
+174,Muneco de accion,Stainless steel water bottle,989.79,19,778,2021-08-31 11:29:37,2022-02-24 22:14:09
+175,Juguete de madera,Ceramic coffee mug,185.98,12,528,2021-01-02 09:09:45,2022-01-07 19:04:36
+176,Juguete de bano,Scented candle,687.24,8,889,2021-03-17 07:38:32,2022-07-24 15:13:00
+177,Marionetas de dedo,Handcrafted wooden picture frame,971.12,12,98,2021-11-19 10:41:13,2022-12-10 08:01:52
+178,Pelota de futbol,Handcrafted wooden picture frame,828.36,8,777,2021-09-08 07:37:02,2022-02-24 13:39:01
+179,Bicicleta infantil,Soft cotton t-shirt,0.58,7,145,2021-04-27 07:58:38,2022-06-14 23:23:01
+180,Juego de ciencia,Leather wallet,510.06,18,58,2021-12-22 11:41:35,2022-04-29 18:50:41
+181,Taladro inalambrico,Soft cotton t-shirt,631.91,2,286,2021-03-20 21:29:48,2022-03-31 13:00:44
+182,Sierra circular,Soft cotton t-shirt,652.11,20,146,2021-01-11 16:03:50,2022-07-27 16:11:47
+183,Atornillador electrico,Stainless steel water bottle,82.29,16,907,2021-04-09 21:18:05,2022-02-05 20:00:35
+184,Multiherramienta,Scented candle,606.49,17,865,2021-08-30 23:49:32,2022-11-07 22:36:32
+185,Juego de llaves inglesas,Soft cotton t-shirt,825.51,18,170,2021-05-16 03:15:46,2022-08-18 04:59:24
+186,Martillo,Leather wallet,555.21,1,10,2021-08-31 10:03:46,2022-11-14 04:33:04
+187,Destornillador de precision,Leather wallet,0.47,10,92,2021-08-20 16:25:16,2022-02-28 21:40:00
+188,Nivel laser,Stainless steel water bottle,713.22,12,599,2021-04-28 12:16:16,2022-03-14 22:14:38
+189,Lijadora electrica,Scented candle,398.33,9,368,2021-04-01 03:03:39,2022-11-05 13:00:10
+190,Compresor de aire,Stainless steel water bottle,539.78,9,207,2021-06-06 10:22:20,2022-12-25 19:54:41
+191,Pistola de calor,Ceramic coffee mug,750.41,7,395,2021-04-17 11:08:04,2022-07-11 15:17:10
+192,Caja de herramientas,Leather wallet,183.53,20,687,2021-09-16 20:56:59,2022-04-19 16:59:54
+193,Soldador electrico,Soft cotton t-shirt,950.9,1,116,2021-05-29 05:22:05,2022-03-30 08:59:08
+194,Multimetro digital,Soft cotton t-shirt,682.68,1,242,2021-11-11 15:11:05,2022-04-27 14:37:40
+195,Amoladora angular,Soft cotton t-shirt,75.64,17,959,2021-08-18 14:50:29,2022-10-17 00:56:45
+196,Escalera telescopica,Leather wallet,620.11,5,215,2021-03-14 07:39:47,2022-08-24 16:43:40
+197,Pistola de silicona,Leather wallet,735.32,18,282,2021-09-26 09:13:27,2022-12-26 09:08:20
+198,Cortacesped,Soft cotton t-shirt,989.97,7,430,2021-01-09 07:34:38,2022-10-30 04:01:19
+199,Desbrozadora,Handcrafted wooden picture frame,433.62,2,755,2021-04-21 05:00:05,2022-04-20 13:52:14
+200,Manguera de jardín,Ceramic coffee mug,705.09,5,877,2021-08-08 17:27:07,2022-11-06 11:20:05
+201,Tensiometro digital,Scented candle,128.6,11,353,2021-10-11 23:44:45,2022-01-31 05:22:08
+202,Termometro infrarrojo,Ceramic coffee mug,557.35,17,163,2021-10-26 22:49:35,2022-09-18 08:16:54
+203,Oximetro de pulso,Handcrafted wooden picture frame,412.09,9,998,2021-01-30 12:10:26,2022-06-30 23:51:51
+204,Nebulizador,Ceramic coffee mug,65.75,14,576,2021-12-03 19:30:17,2022-09-23 03:19:48
+205,Masajeador de pies,Leather wallet,559.67,8,393,2021-09-25 19:47:54,2022-08-10 14:37:45
+206,Almohadilla electrica,Handcrafted wooden picture frame,218.44,16,899,2021-05-27 16:34:35,2022-12-20 19:26:02
+207,Esterilla de acupresion,Soft cotton t-shirt,147.61,11,337,2021-06-19 12:18:54,2022-08-19 01:31:24
+208,Balon de pilates,Scented candle,159.32,8,306,2021-04-11 18:32:51,2022-05-04 02:48:26
+209,Banda elastica de resistencia,Leather wallet,844.01,15,781,2021-09-24 23:38:08,2022-04-05 10:05:27
+210,Corrector de postura,Soft cotton t-shirt,492.89,8,989,2021-06-24 08:46:21,2022-04-29 12:54:20
+211,Rodillo de espuma,Ceramic coffee mug,490.78,16,611,2021-04-22 02:16:17,2022-02-07 05:19:09
+212,Balanza de cocina,Ceramic coffee mug,6.36,6,261,2021-04-24 21:36:42,2022-09-21 19:55:10
+213,Podometro,Handcrafted wooden picture frame,622.46,20,824,2021-04-11 09:02:49,2022-08-30 20:33:04
+214,Botella de agua reutilizable,Ceramic coffee mug,56.27,18,44,2021-12-06 15:22:01,2022-06-02 02:00:04
+215,Set de tupperware,Stainless steel water bottle,8.74,8,377,2021-03-18 03:48:49,2022-10-02 18:59:52
+216,Purificador de agua,Leather wallet,103.56,20,801,2021-05-24 04:16:35,2022-12-24 06:06:59
+217,Almohada ortopedica,Stainless steel water bottle,992.26,6,799,2021-11-01 22:32:09,2022-10-14 09:16:00
+218,Colchon viscoelastico,Ceramic coffee mug,478.16,11,577,2021-03-03 12:31:19,2022-10-03 16:45:56
+219,Filtro de ducha,Handcrafted wooden picture frame,857.14,5,447,2021-05-26 23:08:54,2022-05-05 18:21:27
+220,Gafas para dormir,Ceramic coffee mug,756.95,9,588,2021-07-04 00:45:22,2022-07-28 07:07:43
+221,Cafe en grano,Leather wallet,919.24,17,48,2021-12-22 19:10:36,2022-08-06 15:18:06
+222,Te de hojas sueltas,Soft cotton t-shirt,383.33,11,282,2021-08-13 10:29:37,2022-12-12 21:38:17
+223,Vino tinto,Scented candle,966.94,16,622,2021-12-17 00:25:26,2022-10-11 00:13:06
+224,Aceite de oliva virgen extra,Handcrafted wooden picture frame,867.64,16,125,2021-01-24 17:02:09,2022-03-24 23:27:07
+225,Miel organica,Leather wallet,327.94,8,924,2021-10-28 23:02:06,2022-08-30 08:44:21
+226,Chocolate negro,Stainless steel water bottle,322.27,7,118,2021-09-12 04:22:54,2022-03-26 00:17:11
+227,Queso gourmet,Soft cotton t-shirt,244.79,19,506,2021-02-01 12:28:30,2022-02-06 18:27:28
+228,Jamon iberico,Ceramic coffee mug,412.35,3,67,2021-07-28 02:53:28,2022-04-09 04:52:13
+229,Frutos secos,Scented candle,978.67,7,639,2021-08-22 01:21:09,2022-08-25 16:44:13
+230,Conservas de pescado,Soft cotton t-shirt,983.39,17,928,2021-01-02 11:42:35,2022-01-05 11:13:27
+231,Mermelada artesanal,Scented candle,707.54,18,513,2021-03-18 18:26:01,2022-10-11 09:31:16
+232,Vinagre balsamico,Leather wallet,956.86,4,540,2021-04-23 02:19:33,2022-03-21 19:20:39
+233,Pasta artesanal,Scented candle,701.58,13,192,2021-06-07 10:24:44,2022-05-18 21:01:16
+234,Salsa picante,Soft cotton t-shirt,96.64,2,370,2021-06-19 02:36:58,2022-07-20 08:25:32
+235,Sal de mar,Soft cotton t-shirt,68.72,2,1000,2021-05-19 09:11:56,2022-07-08 05:27:11
+236,Galletas artesanales,Handcrafted wooden picture frame,0.42,5,795,2021-12-22 23:19:02,2022-03-24 17:48:51
+237,Turron,Ceramic coffee mug,950.85,17,216,2021-04-28 14:30:21,2022-07-30 09:06:24
+238,Trufas de chocolate,Stainless steel water bottle,10.36,19,26,2021-11-15 03:02:52,2022-12-12 06:11:18
+239,Aceitunas rellenas,Soft cotton t-shirt,763.69,10,1000,2021-05-20 17:20:33,2022-03-02 16:49:29
+240,Caviar,Handcrafted wooden picture frame,523.06,1,49,2021-09-04 20:10:56,2022-11-19 17:42:59
+241,Novela de ficcion,Stainless steel water bottle,886.21,2,582,2021-11-05 07:46:10,2022-10-13 12:50:34
+242,Libro de cocina,Soft cotton t-shirt,95.49,4,981,2021-07-11 07:36:20,2022-07-24 10:41:02
+243,Libro de autoayuda,Leather wallet,500.8,9,717,2021-01-07 13:11:00,2022-08-25 03:57:43
+244,Biografia,Ceramic coffee mug,510.35,16,667,2021-04-03 22:48:23,2022-06-04 06:01:12
+245,Comic,Stainless steel water bottle,714.05,2,858,2021-08-08 17:13:40,2022-05-06 15:08:50
+246,Libro infantil,Stainless steel water bottle,636.97,7,299,2021-05-28 09:27:27,2022-05-15 21:18:03
+247,Revista de moda,Ceramic coffee mug,856.92,8,968,2021-03-12 20:17:05,2022-01-04 22:09:18
+248,DVD de pelicula,Scented candle,398.57,2,352,2021-12-18 13:37:04,2022-05-12 08:27:49
+249,Blu-ray de serie,Ceramic coffee mug,293.82,15,488,2021-09-13 23:03:58,2022-08-20 13:29:39
+250,CD de musica,Ceramic coffee mug,994.28,12,180,2021-07-29 20:03:01,2022-11-06 01:21:41
+251,Vinilo de musica,Stainless steel water bottle,446.08,15,895,2021-09-14 20:17:09,2022-12-10 05:03:03
+252,Audiolibro,Leather wallet,411.93,7,207,2021-03-06 08:45:57,2022-04-12 19:43:23
+253,E-book,Soft cotton t-shirt,103.09,15,106,2021-11-28 18:46:37,2022-08-20 15:04:03
+254,Libro de texto,Stainless steel water bottle,893.86,5,895,2021-12-01 23:40:21,2022-02-18 15:28:58
+255,Libro de arte,Ceramic coffee mug,999.18,3,705,2021-10-17 04:45:21,2022-12-04 05:18:47
+256,Guia de viaje,Soft cotton t-shirt,38.46,1,20,2021-05-13 10:50:13,2022-07-27 02:24:06
+257,Libro de fotografia,Stainless steel water bottle,92.08,18,247,2021-09-27 01:30:22,2022-03-02 09:42:40
+258,Manual de bricolaje,Stainless steel water bottle,435.19,7,459,2021-11-25 19:52:45,2022-10-30 11:53:19
+259,Libro de jardineria,Stainless steel water bottle,893.63,19,154,2021-12-07 20:42:09,2022-01-08 22:50:13
+260,Diario personal,Stainless steel water bottle,483.55,4,102,2021-06-11 20:26:07,2022-12-08 10:38:53
+261,Anillo de plata,Scented candle,123.61,3,129,2021-04-11 05:41:12,2022-08-23 02:12:02
+262,Collar de perlas,Handcrafted wooden picture frame,700.72,9,635,2021-07-14 21:50:58,2022-11-29 22:36:25
+263,Pulsera de cuero,Handcrafted wooden picture frame,886.96,12,886,2021-09-11 16:52:27,2022-02-15 22:49:02
+264,Pendientes de oro,Stainless steel water bottle,665.39,19,397,2021-08-28 02:57:37,2022-08-24 03:29:30
+265,Reloj de acero inoxidable,Ceramic coffee mug,891.06,5,261,2021-11-22 18:21:10,2022-06-05 21:42:03
+266,Brazalete de diamantes,Scented candle,834.84,10,781,2021-07-03 15:47:17,2022-06-09 02:45:54
+267,Colgante de cuarzo,Soft cotton t-shirt,856.63,18,497,2021-05-23 21:02:15,2022-05-02 01:11:04
+268,Broche vintage,Stainless steel water bottle,906.75,8,113,2021-06-22 12:17:08,2022-11-27 02:16:04
+269,Gemelos de camisa,Scented candle,627.86,13,840,2021-11-02 19:00:10,2022-09-27 23:30:41
+270,Reloj de bolsillo,Stainless steel water bottle,54.2,17,448,2021-12-09 09:04:56,2022-05-13 20:18:18
+271,Anillo de compromiso,Stainless steel water bottle,465.86,15,152,2021-01-16 07:48:23,2022-02-18 22:33:09
+272,Tobillera,Handcrafted wooden picture frame,855.6,13,40,2021-10-05 00:08:05,2022-10-11 22:23:45
+273,Diadema,Ceramic coffee mug,223.36,13,369,2021-02-21 02:12:40,2022-07-18 15:15:30
+274,Joyeria artesanal,Soft cotton t-shirt,887.14,18,232,2021-05-06 01:13:27,2022-12-20 02:39:02
+275,Collar de piedras preciosas,Soft cotton t-shirt,317.15,19,628,2021-02-01 11:14:47,2022-04-14 16:06:58
+276,Pulsera de cuentas,Scented candle,487.82,5,337,2021-10-13 13:28:31,2022-10-21 16:56:24
+277,Pendientes de aro,Handcrafted wooden picture frame,254.37,19,546,2021-07-21 06:05:39,2022-10-16 01:35:14
+278,Reloj deportivo,Scented candle,546.14,14,549,2021-11-18 22:13:18,2022-12-07 19:43:24
+279,Reloj inteligente,Stainless steel water bottle,737.87,11,463,2021-10-27 14:20:51,2022-07-30 03:03:59
+280,Reloj de madera,Leather wallet,346.84,9,876,2021-12-08 14:37:52,2022-12-29 21:38:54
+281,Collar para perro,Scented candle,906.19,18,30,2021-11-20 15:04:07,2022-01-26 03:05:35
+282,Arnes para gato,Soft cotton t-shirt,67.95,12,792,2021-02-12 14:30:52,2022-05-23 00:46:14
+283,Cama para mascotas,Stainless steel water bottle,557.83,17,149,2021-11-18 03:08:51,2022-05-19 11:52:33
+284,Rascador para gatos,Scented candle,992.84,1,776,2021-01-06 12:54:30,2022-05-12 20:49:58
+285,Juguete para perros,Handcrafted wooden picture frame,494.81,2,570,2021-12-04 22:15:34,2022-09-29 17:22:21
+286,Comedero automatico,Soft cotton t-shirt,770.04,12,784,2021-08-10 20:07:01,2022-04-13 20:46:03
+287,Bebedero para mascotas,Ceramic coffee mug,51.13,5,192,2021-04-02 23:59:18,2022-09-10 20:12:35
+288,Transportin,Leather wallet,776.26,4,424,2021-07-25 08:06:09,2022-08-13 10:27:09
+289,Jaula para pajaros,Soft cotton t-shirt,481.95,4,607,2021-06-18 12:03:53,2022-01-04 07:05:27
+290,Pecera,Stainless steel water bottle,589.47,4,315,2021-08-17 12:00:39,2022-03-26 03:34:07
+291,Filtro de acuario,Soft cotton t-shirt,652.92,16,53,2021-02-13 01:04:11,2022-11-15 13:59:34
+292,Calentador de acuario,Scented candle,166.77,5,174,2021-10-20 19:27:53,2022-02-12 12:18:25
+293,Correa extensible,Handcrafted wooden picture frame,661.62,2,338,2021-10-31 17:52:58,2022-07-18 01:33:43
+294,Champu para mascotas,Soft cotton t-shirt,273.54,20,683,2021-03-29 23:37:55,2022-05-28 04:17:08
+295,Cepillo para mascotas,Ceramic coffee mug,397.94,14,236,2021-12-12 21:26:41,2022-11-03 10:50:47
+296,Arena para gatos,Ceramic coffee mug,42.32,2,32,2021-01-15 11:05:39,2022-11-26 03:57:24
+297,Casa para perros,Soft cotton t-shirt,751.9,11,651,2021-04-29 14:53:12,2022-03-07 15:23:28
+298,Jaula para roedores,Handcrafted wooden picture frame,913.0,3,720,2021-05-02 14:27:00,2022-03-18 05:38:55
+299,Bolsa de viaje para mascotas,Stainless steel water bottle,42.41,14,600,2021-09-12 13:30:55,2022-12-25 19:14:44
+300,Kit de limpieza dental para perros,Scented candle,576.38,1,470,2021-06-02 00:51:25,2022-02-23 21:59:54
+301,Set de pintura acrilica,Leather wallet,229.15,5,446,2021-11-24 05:03:03,2022-01-26 19:12:00
+302,Pinceles de diferentes tamanos,Scented candle,439.81,1,793,2021-12-24 22:58:25,2022-06-13 18:30:25
+303,Lienzos para pintar,Leather wallet,289.12,12,234,2021-02-10 20:41:10,2022-07-18 05:35:29
+304,Caballete de madera,Leather wallet,856.76,8,287,2021-06-02 09:56:40,2022-10-30 21:31:51
+305,Rotuladores permanentes,Stainless steel water bottle,605.09,14,357,2021-10-20 13:00:21,2022-04-19 17:59:12
+306,Papel de acuarela,Leather wallet,294.98,8,25,2021-06-14 19:30:47,2022-05-19 04:04:06
+307,Kit de bordado,Soft cotton t-shirt,78.01,11,247,2021-09-24 15:41:58,2022-08-28 08:17:52
+308,Agujas de tejer,Soft cotton t-shirt,700.36,10,448,2021-04-09 20:58:34,2022-04-16 17:15:24
+309,Hilo de lana,Stainless steel water bottle,147.97,3,502,2021-12-02 09:14:45,2022-02-10 16:39:54
+310,Set de scrapbooking,Stainless steel water bottle,739.02,1,736,2021-02-16 16:45:54,2022-09-24 07:44:04
+311,Papel decorativo,Handcrafted wooden picture frame,344.16,2,486,2021-06-27 20:54:50,2022-10-14 21:48:48
+312,Tijeras de precision,Scented candle,54.89,7,465,2021-07-15 20:19:51,2022-11-13 19:39:52
+313,Pegamento para manualidades,Leather wallet,261.52,19,850,2021-05-23 13:27:08,2022-06-27 03:42:19
+314,Purpurina,Soft cotton t-shirt,274.89,5,628,2021-12-09 10:14:10,2022-06-18 13:50:34
+315,Arcilla polimerica,Scented candle,193.16,9,637,2021-11-06 04:03:00,2022-07-27 02:51:33
+316,Pintura en spray,Stainless steel water bottle,666.48,15,745,2021-08-14 05:59:04,2022-07-23 22:57:28
+317,Marcadores de colores,Scented candle,408.09,20,354,2021-06-21 23:09:39,2022-08-06 15:59:45
+318,Sellos de goma,Handcrafted wooden picture frame,313.51,9,57,2021-10-07 05:29:00,2022-06-01 15:48:37
+319,Lapices de colores,Leather wallet,641.98,14,943,2021-10-26 12:14:52,2022-11-23 04:08:08
+320,Kit de origami,Soft cotton t-shirt,395.82,8,255,2021-05-06 22:33:09,2022-09-21 15:56:29
+321,Maleta rigida,Ceramic coffee mug,693.9,9,826,2021-03-15 22:21:21,2022-07-06 05:35:00
+322,Bolsa de viaje,Soft cotton t-shirt,600.41,13,8,2021-08-02 05:14:15,2022-01-06 20:36:38
+323,Mochila de viaje,Handcrafted wooden picture frame,336.6,9,783,2021-10-19 05:23:35,2022-11-10 08:28:04
+324,Neceser de viaje,Leather wallet,583.67,11,760,2021-05-17 05:14:33,2022-06-08 20:17:34
+325,Funda para pasaporte,Ceramic coffee mug,656.65,4,221,2021-03-03 01:44:04,2022-08-07 11:11:41
+326,Almohada de viaje,Soft cotton t-shirt,540.79,20,343,2021-07-18 08:09:06,2022-01-30 16:16:03
+327,Organizador de maleta,Leather wallet,269.4,17,327,2021-08-05 06:12:45,2022-12-23 11:57:53
+328,Cinturon de dinero,Handcrafted wooden picture frame,853.82,17,596,2021-11-30 05:00:52,2022-05-20 07:58:06
+329,Botella de agua plegable,Handcrafted wooden picture frame,541.94,12,314,2021-11-03 00:42:07,2022-05-30 05:01:51
+330,Toalla de microfibra,Leather wallet,884.05,16,286,2021-05-08 20:00:46,2022-06-21 16:41:34
+331,Adaptador de enchufe universal,Scented candle,759.91,14,346,2021-05-29 02:24:13,2022-03-27 11:36:22
+332,Cargador portatil,Leather wallet,666.99,2,982,2021-12-11 02:40:56,2022-05-12 04:02:41
+333,Candado para maleta,Handcrafted wooden picture frame,114.25,17,479,2021-04-17 23:13:18,2022-06-17 15:01:18
+334,Balanza para equipaje,Ceramic coffee mug,373.77,13,112,2021-11-04 21:45:02,2022-10-11 10:02:10
+335,Manta de viaje,Stainless steel water bottle,675.97,8,249,2021-12-30 23:43:42,2022-06-01 12:48:07
+336,Mascarilla para dormir,Soft cotton t-shirt,184.1,15,626,2021-02-17 15:03:07,2022-01-10 14:21:36
+337,Tapones para los oidos,Soft cotton t-shirt,964.81,15,778,2021-10-28 08:35:49,2022-12-15 09:57:06
+338,Etiqueta de equipaje,Scented candle,938.11,20,511,2021-05-06 18:35:23,2022-06-04 15:39:14
+339,Rinonera de viaje,Soft cotton t-shirt,595.02,20,594,2021-03-08 19:02:07,2022-04-17 07:23:36
+340,Reloj de viaje,Ceramic coffee mug,971.76,10,41,2021-09-10 11:01:48,2022-04-08 04:26:05
+341,Guitarra acustica,Handcrafted wooden picture frame,845.11,2,919,2021-03-03 06:36:12,2022-04-18 10:51:26
+342,Guitarra electrica,Leather wallet,245.7,16,194,2021-04-04 06:25:39,2022-04-16 10:40:31
+343,Bajo electrico,Stainless steel water bottle,875.01,16,175,2021-07-02 16:47:29,2022-12-01 16:14:48
+344,Ukelele,Leather wallet,385.81,16,346,2021-12-03 11:57:37,2022-09-30 01:57:10
+345,Piano digital,Ceramic coffee mug,408.32,9,92,2021-08-18 22:53:51,2022-11-14 04:21:29
+346,Teclado MIDI,Handcrafted wooden picture frame,141.62,4,365,2021-08-01 13:00:29,2022-03-26 13:23:09
+347,Bateria electronica,Stainless steel water bottle,299.83,10,328,2021-02-04 07:44:17,2022-11-04 12:37:08
+348,Cajon flamenco,Stainless steel water bottle,14.2,5,765,2021-03-11 06:49:47,2022-08-07 23:39:50
+349,Violin,Stainless steel water bottle,68.63,15,284,2021-05-16 05:15:45,2022-10-10 02:31:40
+350,Flauta,Stainless steel water bottle,82.87,13,723,2021-05-06 15:17:30,2022-07-22 17:04:43
+351,Saxofon,Soft cotton t-shirt,589.72,1,428,2021-11-11 18:58:57,2022-08-17 14:46:11
+352,Trompeta,Scented candle,158.1,16,764,2021-10-27 20:55:20,2022-01-08 10:23:54
+353,Armonica,Stainless steel water bottle,761.8,10,268,2021-06-05 13:56:13,2022-08-05 14:22:42
+354,Microfono de estudio,Soft cotton t-shirt,328.7,1,97,2021-07-06 10:08:25,2022-10-14 18:28:58
+355,Amplificador de guitarra,Scented candle,950.74,14,24,2021-08-14 17:11:56,2022-03-29 16:49:58
+356,Pedal de efectos,Ceramic coffee mug,241.03,7,234,2021-11-19 14:30:14,2022-05-16 15:43:27
+357,Soporte para guitarra,Handcrafted wooden picture frame,132.27,10,848,2021-04-24 22:30:50,2022-09-01 04:18:13
+358,Afinador electronico,Scented candle,747.75,8,314,2021-07-14 07:01:33,2022-05-05 06:03:52
+359,Cuerdas de guitarra,Ceramic coffee mug,867.37,13,530,2021-04-10 03:13:24,2022-12-08 03:50:47
+360,Baquetas,Handcrafted wooden picture frame,270.61,8,164,2021-03-19 17:16:05,2022-07-30 11:48:53
+361,Set de herramientas de jardineria,Stainless steel water bottle,634.55,18,741,2021-04-05 04:11:13,2022-06-24 13:34:50
+362,Regadera,Soft cotton t-shirt,120.35,15,327,2021-05-22 08:13:50,2022-05-14 15:43:02
+363,Manguera extensible,Leather wallet,132.24,5,715,2021-03-14 04:11:43,2022-08-23 03:20:23
+364,Sistema de riego automatico,Ceramic coffee mug,354.3,3,76,2021-02-24 23:09:09,2022-08-06 03:06:15
+365,Cortacesped,Soft cotton t-shirt,548.35,15,506,2021-11-02 02:54:56,2022-11-24 18:50:07
+366,Desbrozadora,Scented candle,371.1,17,53,2021-10-31 02:40:37,2022-10-17 08:33:14
+367,Compostador,Soft cotton t-shirt,895.15,14,904,2021-11-14 09:21:12,2022-04-08 13:00:06
+368,Invernadero,Handcrafted wooden picture frame,100.47,6,421,2021-11-18 17:48:26,2022-07-04 02:23:16
+369,Macetas de ceramica,Handcrafted wooden picture frame,433.59,4,429,2021-03-18 15:56:10,2022-07-15 06:01:47
+370,Fertilizante organico,Ceramic coffee mug,390.89,15,748,2021-12-21 20:20:36,2022-06-13 01:48:00
+371,Tierra para macetas,Ceramic coffee mug,155.77,7,537,2021-02-27 00:10:29,2022-09-10 06:25:48
+372,Semillas de flores,Handcrafted wooden picture frame,410.61,15,531,2021-03-12 16:54:15,2022-03-19 20:10:48
+373,Semillas de hortalizas,Ceramic coffee mug,1.23,19,993,2021-09-05 18:05:40,2022-02-07 07:27:40
+374,Arboles frutales,Soft cotton t-shirt,690.84,17,43,2021-08-19 06:34:53,2022-10-09 09:47:38
+375,Seto artificial,Stainless steel water bottle,721.27,14,236,2021-08-25 17:45:39,2022-11-29 15:20:31
+376,Iluminacion solar,Soft cotton t-shirt,41.4,12,554,2021-08-24 15:54:59,2022-07-11 16:53:55
+377,Fuente de jardin,Scented candle,876.22,7,284,2021-02-12 10:16:33,2022-02-25 16:31:01
+378,Barbacoa de carbon,Ceramic coffee mug,944.93,3,562,2021-01-26 13:04:24,2022-07-05 06:16:35
+379,Muebles de exterior,Stainless steel water bottle,360.08,15,287,2021-03-23 16:55:35,2022-03-10 16:21:02
+380,Sombrilla de jardín,Leather wallet,94.52,16,782,2021-05-15 05:39:27,2022-05-14 03:59:35
+381,Cuna de bebe,Scented candle,419.14,3,773,2021-06-07 23:11:24,2022-12-23 02:51:58
+382,Silla de paseo,Stainless steel water bottle,885.49,14,126,2021-09-10 11:18:04,2022-06-02 09:33:48
+383,Trona,Stainless steel water bottle,262.62,14,348,2021-09-17 12:02:17,2022-12-23 12:06:21
+384,Silla de coche,Soft cotton t-shirt,346.12,17,376,2021-02-16 06:25:52,2022-03-20 05:30:24
+385,Andador,Soft cotton t-shirt,65.26,2,845,2021-03-31 18:15:28,2022-06-23 02:11:13
+386,Parque infantil,Leather wallet,834.64,17,256,2021-04-11 22:41:25,2022-04-21 07:50:35
+387,Juguete para bebe,Leather wallet,895.55,17,102,2021-11-11 00:59:21,2022-05-08 17:19:26
+388,Manta de actividades,Handcrafted wooden picture frame,652.94,20,47,2021-07-01 18:08:38,2022-04-12 06:20:07
+389,Sonajero,Handcrafted wooden picture frame,116.69,12,263,2021-03-07 10:01:36,2022-02-07 02:00:25
+390,Babero impermeable,Scented candle,984.63,19,791,2021-12-10 12:23:51,2022-08-20 09:56:41
+391,Set de biberones,Leather wallet,781.75,12,493,2021-05-13 21:25:38,2022-10-18 10:29:51
+392,Calientabiberones,Leather wallet,868.9,9,403,2021-04-04 09:10:29,2022-11-03 22:07:23
+393,Esterilizador de biberones,Ceramic coffee mug,779.08,15,34,2021-06-27 08:19:53,2022-03-23 07:47:20
+394,Vigilabebes,Soft cotton t-shirt,846.9,4,546,2021-11-02 16:12:57,2022-11-27 01:46:18
+395,Humidificador para bebe,Scented candle,462.23,9,875,2021-11-05 18:33:32,2022-04-20 07:15:24
+396,Luz nocturna,Handcrafted wooden picture frame,622.57,2,398,2021-07-26 07:18:03,2022-02-12 16:35:44
+397,Termometro para bebe,Handcrafted wooden picture frame,226.38,2,68,2021-06-21 16:12:10,2022-07-27 06:06:01
+398,Aspirador nasal,Soft cotton t-shirt,683.71,2,514,2021-08-06 01:08:00,2022-10-21 20:08:31
+399,Panales desechables,Soft cotton t-shirt,544.23,3,252,2021-03-31 22:21:15,2022-02-27 17:28:10
+400,Panales de tela,Scented candle,879.78,20,497,2021-07-16 02:17:56,2022-12-05 02:08:50
+401,Toallitas humedas,Scented candle,882.46,4,838,2021-02-22 23:17:09,2022-05-21 19:09:31
+402,Crema para panal,Handcrafted wooden picture frame,364.06,18,553,2021-07-14 02:50:49,2022-12-27 11:14:26
+403,Champu para bebe,Ceramic coffee mug,728.08,15,827,2021-04-27 09:11:02,2022-04-24 09:35:57
+404,Gel de bano para bebe,Soft cotton t-shirt,597.28,6,614,2021-02-19 08:18:40,2022-04-26 04:50:52
+405,Locion hidratante para bebe,Handcrafted wooden picture frame,503.58,16,498,2021-03-09 03:51:57,2022-03-01 01:28:10
+406,Toalla con capucha,Ceramic coffee mug,644.69,16,505,2021-12-26 18:06:45,2022-10-02 15:42:26
+407,Ropa de bebe,Stainless steel water bottle,730.67,17,181,2021-09-19 08:46:19,2022-06-08 14:18:33
+408,Bodies para bebe,Soft cotton t-shirt,817.1,9,13,2021-04-17 12:24:16,2022-06-19 01:55:28
+409,Mameluco,Handcrafted wooden picture frame,955.52,13,725,2021-06-24 07:48:57,2022-06-19 01:42:39
+410,Pijamas para bebe,Scented candle,22.17,18,894,2021-05-31 00:32:55,2022-04-22 07:16:48
+411,Calcetines para bebe,Ceramic coffee mug,646.77,6,424,2021-01-20 05:26:50,2022-11-20 10:10:26
+412,Zapatos de cuna,Stainless steel water bottle,321.53,16,967,2021-04-25 23:05:06,2022-06-01 18:09:58
+413,Gorrito de bebe,Ceramic coffee mug,858.75,2,934,2021-06-11 12:09:05,2022-08-04 14:01:40
+414,Mantita para bebe,Soft cotton t-shirt,863.34,9,463,2021-09-04 06:27:55,2022-06-14 06:39:16
+415,Chupete,Scented candle,85.5,11,384,2021-06-08 23:21:31,2022-11-17 03:26:02
+416,Cadena para chupete,Stainless steel water bottle,94.23,20,842,2021-01-08 23:46:18,2022-09-11 04:50:47
+417,Mordedor,Ceramic coffee mug,308.07,7,738,2021-08-21 08:50:01,2022-10-05 16:50:56
+418,Portabebes,Handcrafted wooden picture frame,923.83,1,208,2021-06-16 13:30:02,2022-10-06 23:44:45
+419,Mochila portabebes,Ceramic coffee mug,889.6,13,557,2021-05-10 16:51:40,2022-08-10 22:11:11
+420,Cubrecolchon impermeable,Ceramic coffee mug,707.42,4,785,2021-04-25 01:47:49,2022-06-29 00:24:26
+421,Protector de cuna,Leather wallet,592.64,19,824,2021-08-30 02:23:04,2022-11-08 05:19:13
+422,Set de alimentacion para bebe,Soft cotton t-shirt,322.16,20,354,2021-09-26 11:11:09,2022-01-04 20:31:16
+423,Plato con ventosa,Ceramic coffee mug,440.18,4,277,2021-08-24 15:30:25,2022-08-30 00:05:25
+424,Taza de entrenamiento,Scented candle,779.8,20,990,2021-12-09 09:36:13,2022-05-28 23:48:06
+425,Cucharas de silicona,Stainless steel water bottle,162.86,3,495,2021-10-24 03:35:11,2022-07-30 11:52:45
+426,Juguete de bano,Stainless steel water bottle,640.79,9,475,2021-02-13 15:18:26,2022-03-17 05:06:46
+427,Alfombrilla antideslizante,Stainless steel water bottle,890.27,9,250,2021-05-21 10:15:06,2022-07-12 00:15:02
+428,Barrera de seguridad,Handcrafted wooden picture frame,489.08,2,706,2021-02-17 18:54:44,2022-04-18 07:56:44
+429,Cierre de seguridad para puertas,Scented candle,697.67,9,350,2021-09-23 04:15:07,2022-08-22 19:50:12
+430,Monitor de respiracion,Soft cotton t-shirt,977.93,20,61,2021-09-12 16:17:58,2022-01-25 13:05:43
+431,Termometro de bano,Stainless steel water bottle,130.96,14,715,2021-05-23 19:51:47,2022-09-15 16:43:10
+432,Esponja natural,Leather wallet,488.11,17,941,2021-10-01 22:50:52,2022-05-29 17:40:09
+433,Cepillo de pelo suave,Stainless steel water bottle,253.14,17,281,2021-06-18 18:35:34,2022-05-24 16:07:01
+434,Set de manicura para bebe,Soft cotton t-shirt,27.93,13,543,2021-05-04 19:31:55,2022-08-08 20:47:07
+435,Termo para liquidos,Ceramic coffee mug,737.12,13,636,2021-10-28 10:15:03,2022-08-05 01:27:22
+436,Bolsa de panales,Ceramic coffee mug,944.44,14,411,2021-02-19 19:32:49,2022-12-09 05:22:01
+437,Mochila de maternidad,Scented candle,658.24,16,945,2021-11-22 19:08:00,2022-12-15 08:59:34
+438,Organizador de cochecito,Scented candle,823.36,3,671,2021-12-14 08:44:44,2022-04-04 15:51:06
+439,Protector solar para coche,Handcrafted wooden picture frame,255.03,6,975,2021-12-12 12:57:38,2022-09-08 22:42:15
+440,Juguete colgante para cochecito,Leather wallet,441.41,19,787,2021-06-23 06:34:07,2022-11-04 21:30:00
+441,Reposacabezas para bebe,Handcrafted wooden picture frame,962.8,18,260,2021-09-14 18:31:25,2022-03-14 06:22:13
+442,Saco de dormir para bebe,Scented candle,892.62,8,975,2021-11-29 19:26:47,2022-04-28 06:19:07
+443,Mosquitera para cochecito,Ceramic coffee mug,24.22,16,886,2021-06-04 08:49:01,2022-03-20 02:30:27
+444,Funda para silla de coche,Soft cotton t-shirt,738.83,5,24,2021-06-23 09:59:32,2022-03-06 08:39:10
+445,Cojin de lactancia,Ceramic coffee mug,824.83,6,545,2021-08-31 15:49:27,2022-01-16 14:57:02
+446,Esterilla de cambio,Leather wallet,631.32,17,99,2021-11-03 08:12:45,2022-10-08 18:05:19
+447,Organizador de panales,Stainless steel water bottle,693.73,12,117,2021-07-16 02:07:55,2022-12-02 03:11:50
+448,Calzador de zapatos,Scented candle,979.07,17,766,2021-12-29 00:17:32,2022-05-06 12:46:27
+449,Set de primeros auxilios,Scented candle,885.88,20,115,2021-03-26 13:18:49,2022-02-06 06:14:35
+450,Asiento de bano para bebe,Handcrafted wooden picture frame,529.6,4,244,2021-07-01 04:53:32,2022-09-18 11:55:57
+451,Sombrilla de playa,Soft cotton t-shirt,565.03,13,639,2021-02-28 14:47:20,2022-08-03 10:54:10
+452,Silla plegable de camping,Handcrafted wooden picture frame,185.6,19,28,2021-05-07 19:43:14,2022-08-30 08:00:54
+453,Mesa plegable de camping,Stainless steel water bottle,135.7,15,793,2021-11-19 16:26:07,2022-01-03 11:25:16
+454,Bolsa termica,Scented candle,568.66,1,924,2021-10-24 11:58:22,2022-08-31 22:08:04
+455,Paraguas,Leather wallet,448.97,2,510,2021-05-22 11:54:42,2022-06-08 21:10:41
+456,Botella termica,Ceramic coffee mug,795.41,6,447,2021-03-13 08:35:35,2022-11-24 00:10:58
+457,Frasco de vidrio hermetico,Scented candle,320.88,20,58,2021-05-16 04:19:00,2022-06-04 21:34:14
+458,Bolsa reutilizable para compras,Ceramic coffee mug,961.07,11,340,2021-04-11 06:22:29,2022-04-26 20:48:52
+459,Set de cubiertos portatiles,Leather wallet,402.53,4,279,2021-03-31 02:56:14,2022-02-28 14:47:15
+460,Pano de cocina,Leather wallet,998.8,4,296,2021-07-30 16:34:30,2022-06-10 10:36:21
+461,Guantes de horno,Ceramic coffee mug,55.51,14,648,2021-10-16 08:39:21,2022-08-08 19:58:38
+462,Juego de manteles,Scented candle,939.76,7,331,2021-03-29 14:09:31,2022-12-05 04:10:19
+463,Servilletas de tela,Ceramic coffee mug,760.91,20,783,2021-03-30 12:23:20,2022-10-11 12:36:49
+464,Camino de mesa,Leather wallet,998.97,16,466,2021-10-24 00:25:04,2022-11-03 23:35:23
+465,Vela perfumada,Leather wallet,335.27,8,787,2021-09-24 06:20:21,2022-01-11 23:02:12
+466,Difusor de aceites esenciales,Stainless steel water bottle,633.47,16,786,2021-08-14 16:22:00,2022-04-30 20:11:06
+467,Humidificador ultrasonico,Stainless steel water bottle,766.25,6,7,2021-05-18 13:28:32,2022-03-15 16:01:37
+468,Ventilador USB,Ceramic coffee mug,378.41,17,233,2021-09-14 22:48:39,2022-06-12 00:32:31
+469,Lampara de escritorio LED,Scented candle,669.37,11,523,2021-11-28 01:23:25,2022-03-04 23:13:50
+470,Cargador inalambrico,Soft cotton t-shirt,888.31,4,982,2021-11-15 13:36:02,2022-11-10 12:09:48
+471,Estacion de carga,Leather wallet,900.58,12,701,2021-10-09 08:29:45,2022-11-15 09:01:06
+472,Soporte para movil,Soft cotton t-shirt,643.92,13,153,2021-11-27 16:44:27,2022-05-23 07:04:02
+473,Funda para portatil,Soft cotton t-shirt,844.02,18,182,2021-03-27 04:08:57,2022-07-02 00:27:25
+474,Protector de pantalla para portatil,Handcrafted wooden picture frame,379.31,2,546,2021-02-07 04:32:56,2022-04-06 15:59:44
+475,Almohadilla de raton,Handcrafted wooden picture frame,435.9,13,907,2021-10-17 15:47:44,2022-09-14 20:33:52
+476,Soporte para monitor,Leather wallet,260.69,3,708,2021-08-18 01:53:52,2022-10-25 23:43:37
+477,Base de refrigeracion para portatil,Leather wallet,500.81,7,388,2021-03-10 05:44:44,2022-10-03 11:36:09
+478,Mochila antirrobo,Stainless steel water bottle,39.37,11,369,2021-09-05 06:29:25,2022-05-14 05:16:20
+479,Funda impermeable para movil,Handcrafted wooden picture frame,540.11,15,942,2021-01-18 16:32:52,2022-01-19 02:50:06
+480,Carcasa rigida para camara,Stainless steel water bottle,4.4,8,446,2021-08-17 22:24:57,2022-08-06 03:02:27
+481,Tripode para camara,Soft cotton t-shirt,360.75,7,125,2021-01-05 18:59:24,2022-11-18 22:03:23
+482,Estabilizador de camara,Soft cotton t-shirt,727.71,8,272,2021-01-08 03:36:40,2022-04-15 01:29:23
+483,Adaptador de corriente universal,Stainless steel water bottle,168.56,12,137,2021-09-30 06:09:01,2022-12-02 15:19:46
+484,Regleta de enchufes con USB,Stainless steel water bottle,263.64,9,795,2021-06-01 00:59:37,2022-01-16 20:10:14
+485,Cable de extension,Leather wallet,91.64,5,287,2021-02-21 13:16:12,2022-10-10 23:48:55
+486,Lampara de mesa con pinza,Soft cotton t-shirt,891.8,4,932,2021-12-19 04:35:52,2022-07-07 03:03:29
+487,Gafas de realidad virtual,Stainless steel water bottle,592.72,14,951,2021-01-28 16:01:02,2022-03-27 04:25:51
+488,Auriculares de realidad virtual,Scented candle,341.33,7,919,2021-09-27 00:13:12,2022-11-30 04:45:29
+489,Teclado ergonomico,Soft cotton t-shirt,580.23,12,98,2021-02-15 03:55:21,2022-03-24 12:32:52
+490,Alfombrilla de yoga,Ceramic coffee mug,284.64,19,619,2021-12-04 18:04:27,2022-08-25 14:45:01
+491,Set de pesas ajustables,Scented candle,962.0,13,283,2021-09-22 19:43:44,2022-06-05 14:19:24
+492,Banco de pesas ajustable,Scented candle,237.74,5,66,2021-09-08 02:20:29,2022-03-08 02:01:13
+493,Bicicleta de spinning,Handcrafted wooden picture frame,96.12,17,351,2021-09-16 00:33:02,2022-07-31 19:15:28
+494,Reloj inteligente deportivo,Handcrafted wooden picture frame,888.95,9,844,2021-05-31 22:10:19,2022-04-03 18:00:27
+495,Camara de seguridad WiFi,Handcrafted wooden picture frame,926.06,4,196,2021-08-07 09:42:50,2022-05-10 16:03:55
+496,Timbre con camara,Stainless steel water bottle,963.74,10,446,2021-06-03 21:36:52,2022-10-20 18:12:59
+497,Sensor de movimiento,Handcrafted wooden picture frame,947.0,12,952,2021-10-13 17:12:31,2022-10-24 13:41:28
+498,Alarma de seguridad,Soft cotton t-shirt,353.63,15,738,2021-06-23 03:22:25,2022-08-18 01:46:11
+499,Kit de cerradura electronica,Stainless steel water bottle,754.72,7,747,2021-05-08 00:41:00,2022-06-05 04:49:41
+500,Caja fuerte electronica,Scented candle,599.83,5,609,2021-10-31 06:03:30,2022-07-11 13:02:57
