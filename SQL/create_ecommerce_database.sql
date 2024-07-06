@@ -1,5 +1,5 @@
 create database ecommerce_db;
-use cartitemsecommerce_db;
+use ecommerce_db;
 CREATE TABLE Users (
     user_id INT AUTO_INCREMENT PRIMARY KEY,
     first_name VARCHAR(30) NOT NULL,
