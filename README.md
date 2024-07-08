@@ -3,7 +3,7 @@ Este proyecto contiene la estructura de una base de datos para un comercio elect
 
 ## Últimas Actualizaciones
 
-- **Fecha**: [Fecha actual]
+- **Fecha**: [7-7-2024 ]
   - Agregadas nuevas carpetas y scripts SQL:
     - Carpeta `stored_procedures`:
       - `sp_users.sql`: Script para stored procedure relacionado con usuarios.
