@@ -69,8 +69,3 @@ Este proyecto contiene la estructura de una base de datos para un comercio elect
 - Autor: Ogas Brian
 - Email: ogasbrian735@gmail.com
 - LinkedIn: Brian Emanuel Ogas
-<<<<<<< HEAD
-=======
-
-
->>>>>>> f75a4590eb73c20ab594a3e4e0ef861dd6090d91
