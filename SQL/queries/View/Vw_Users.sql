@@ -12,8 +12,8 @@ INNER JOIN
     Orders o ON o.user_id = u.user_id
 -- Filtra las órdenes que fueron realizadas en los últimos 30 días desde la fecha de la orden más reciente
 WHERE 
-    o.order_date > DATE_SUB((SELECT MAX(order_date) FROM Orders), INTERVAL 30 DAY);
-    
+o.order_date > DATE_SUB((SELECT MAX(order_date) FROM Orders), INTERVAL 30 DAY);
+-- o.order_date > DATE_SUB (CURDATE() , INTERVAL 30 DAY);
 -- -----------------------------------------------------------------------------------------------------------
 
 -- Crear una vista que muestre el historial de compras de un usuario específico
@@ -35,5 +35,21 @@ WHERE
     o.user_id = 25                  -- Filtrar por el usuario con user_id = 25
 ORDER BY
     o.order_date DESC;              -- Ordenar las compras por fecha de orden en orden descendente
+-- ----------------------------------------------------------------------------------------------------
+-- Crear una vista que muestre el valor total de compras realizadas por cada usuario
+CREATE VIEW TotalSalesByUser AS
+SELECT 
+    u.user_id,                    -- Identificador único del usuario
+    u.first_name,                 -- Nombre del usuario
+    u.last_name,                  -- Apellido del usuario
+    SUM(o.total_amount) AS total_spent  -- Suma del monto total de las órdenes realizadas por el usuario
+FROM 
+    Users u
+JOIN 
+    Orders o ON o.user_id = u.user_id
+GROUP BY 
+    u.user_id, u.first_name, u.last_name;
 
+
+-- -----------------------------------------------------------------------------------------------------
 

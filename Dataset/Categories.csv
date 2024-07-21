@@ -1,22 +1,22 @@
-category_id,name,description,created_at,updated_at
-1,Electronica de consumo,Overview of the event,2021-01-28 05:13:19,2022-06-29 12:43:04
-2,Informatica y tecnologia,Detailed description of the product,2021-11-14 14:37:17,2022-10-15 22:25:53
-3,Hogar y cocina,Detailed description of the product,2021-01-08 22:21:15,2022-10-28 01:24:52
-4,Electrodomesticos,Exciting features of the service,2021-08-20 14:48:13,2022-08-06 05:27:32
-5,Muebles y decoracion,Description of the project,2021-01-15 08:14:26,2022-05-07 01:35:35
-6,Deportes y aire libre,Exciting features of the service,2021-07-19 22:01:59,2022-08-04 05:20:29
-7,Belleza y cuidado personal,Detailed description of the product,2021-11-09 16:57:35,2022-11-28 12:17:11
-8,Moda y accesorios,Detailed description of the product,2021-10-10 16:13:31,2022-03-10 06:14:18
-9,Juguetes y juegos,Benefits of using the software,2021-01-28 22:52:43,2022-08-17 01:30:00
-10,Herramientas y mejoras para el hogar,Overview of the event,2021-05-05 15:22:57,2022-02-18 23:59:04
-11,Salud y bienestar,Benefits of using the software,2021-05-15 13:21:18,2022-01-14 16:13:24
-12,Alimentacion y bebidas gourmet,Description of the project,2021-09-24 07:25:03,2022-10-30 22:25:39
-13,Libros y medios,Description of the project,2021-06-06 02:54:40,2022-10-16 06:12:09
-14,Joyeria y relojes,Overview of the event,2021-08-19 08:57:27,2022-07-04 18:05:45
-15,Articulos para mascotas,Benefits of using the software,2021-03-26 02:18:27,2022-05-15 00:16:00
-16,Arte y manualidades,Overview of the event,2021-06-18 11:30:48,2022-09-02 12:40:37
-17,Equipaje y accesorios de viaje,Benefits of using the software,2021-02-05 11:57:46,2022-04-03 09:55:39
-18,Instrumentos musicales,Description of the project,2021-02-27 01:03:17,2022-02-10 15:28:00
-19,Jardineria y exteriores,Description of the project,2021-02-12 18:07:36,2022-01-28 10:34:44
-20,Productos para bebes,Benefits of using the software,2021-03-19 12:14:34,2022-02-27 00:47:01
-21,Otros,Overview of the event,2021-03-01 09:05:45,2022-08-17 04:48:33
+"category_id";"name";"description";"created_at";"updated_at"
+1;"Electronica de consumo";"Overview of the event";"2021-01-28 05:13:19";"2022-06-29 12:43:04"
+2;"Informatica y tecnologia";"Detailed description of the product";"2021-11-14 14:37:17";"2022-10-15 22:25:53"
+3;"Hogar y cocina";"Detailed description of the product";"2021-01-08 22:21:15";"2022-10-28 01:24:52"
+4;"Electrodomesticos";"Exciting features of the service";"2021-08-20 14:48:13";"2022-08-06 05:27:32"
+5;"Muebles y decoracion";"Description of the project";"2021-01-15 08:14:26";"2022-05-07 01:35:35"
+6;"Deportes y aire libre";"Exciting features of the service";"2021-07-19 22:01:59";"2022-08-04 05:20:29"
+7;"Belleza y cuidado personal";"Detailed description of the product";"2021-11-09 16:57:35";"2022-11-28 12:17:11"
+8;"Moda y accesorios";"Detailed description of the product";"2021-10-10 16:13:31";"2022-03-10 06:14:18"
+9;"Juguetes y juegos";"Benefits of using the software";"2021-01-28 22:52:43";"2022-08-17 01:30:00"
+10;"Herramientas y mejoras para el hogar";"Detailed description of the product";"2024-07-03 18:10:06";"2024-07-03 18:10:06"
+11;"Salud y bienestar";"Benefits of using the software";"2021-05-15 13:21:18";"2022-01-14 16:13:24"
+12;"Alimentacion y bebidas gourmet";"Description of the project";"2021-09-24 07:25:03";"2022-10-30 22:25:39"
+13;"Libros y medios";"Description of the project";"2021-06-06 02:54:40";"2022-10-16 06:12:09"
+14;"Joyeria y relojes";"Overview of the event";"2021-08-19 08:57:27";"2022-07-04 18:05:45"
+15;"Articulos para mascotas";"Benefits of using the software";"2021-03-26 02:18:27";"2022-05-15 00:16:00"
+16;"Arte y manualidades";"Overview of the event";"2021-06-18 11:30:48";"2022-09-02 12:40:37"
+17;"Equipaje y accesorios de viaje";"Benefits of using the software";"2021-02-05 11:57:46";"2022-04-03 09:55:39"
+18;"Instrumentos musicales";"Description of the project";"2021-02-27 01:03:17";"2022-02-10 15:28:00"
+19;"Jardineria y exteriores";"Description of the project";"2021-02-12 18:07:36";"2022-01-28 10:34:44"
+20;"Productos para bebes";"Benefits of using the software";"2021-03-19 12:14:34";"2022-02-27 00:47:01"
+21;"Otros";"Overview of the event";"2021-03-01 09:05:45";"2022-08-17 04:48:33"

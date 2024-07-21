@@ -14,7 +14,7 @@ CREATE TABLE Users (
 
 CREATE TABLE Categories (
     category_id INT AUTO_INCREMENT PRIMARY KEY, -- Identificador único de la categoría.
-    `name` VARCHAR(30) NOT NULL, -- Nombre de la categoría.
+    `name` VARCHAR(70) NOT NULL, -- Nombre de la categoría.
     `description` VARCHAR(255), -- Descripción de la categoría.
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP, -- Fecha y hora de creación del registro.
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP -- Fecha y hora de la última actualización del registro.

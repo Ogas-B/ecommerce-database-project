@@ -1,51 +1,51 @@
-supplier_id,name,contact_name,contact_email,contact_phone,address,created_at,updated_at
-1,Gerri Millwall,Fair Bitten,fbitten0@taobao.com,564-942-7313,5 Killdeer Terrace,2021-03-10 04:05:51,2022-10-22 15:00:36
-2,Shena Spradbery,Lambert Salvador,lsalvador1@flickr.com,712-791-0091,1313 Oak Valley Parkway,2021-04-29 11:20:32,2022-12-25 01:16:17
-3,Staci Bulcock,Margeaux Steart,msteart2@cam.ac.uk,592-708-4105,08875 Merrick Park,2021-07-25 11:37:41,2022-12-08 12:24:47
-4,Terrel Badini,Edwin Rumford,erumford3@shinystat.com,130-656-8861,51 Dennis Circle,2021-11-27 15:49:16,2022-05-06 22:07:15
-5,Clem Rotherforth,Alfonso Passby,apassby4@usda.gov,995-828-9323,44 Kim Road,2021-12-08 10:40:52,2022-06-24 14:39:25
-6,Kaela Ambrus,Hildegaard Palek,hpalek5@ft.com,123-499-2836,0 Magdeline Lane,2021-11-09 14:54:14,2022-07-24 11:29:05
-7,Gare Doag,Carline Archambault,carchambault6@addtoany.com,953-160-9011,437 Hoepker Street,2021-10-30 08:44:39,2022-02-18 11:33:47
-8,Tonia Caldicot,Ebba Speddin,espeddin7@webs.com,850-636-2429,6 Gerald Lane,2021-01-26 20:31:11,2022-06-21 18:32:08
-9,Ebba Isacke,Cletus Innocenti,cinnocenti8@biblegateway.com,307-258-6375,835 Bunker Hill Lane,2021-10-24 18:11:50,2022-01-29 12:40:00
-10,Rosy Brager,Nona Railton,nrailton9@buzzfeed.com,848-321-3008,3794 Eastlawn Place,2021-09-19 09:56:12,2022-04-18 13:02:19
-11,Oralia Greenly,Verge Kleinbaum,vkleinbauma@huffingtonpost.com,838-819-9906,15742 Milwaukee Road,2021-04-24 10:29:45,2022-01-16 10:35:35
-12,Colene O'Hagirtie,Silvester Vedeneev,svedeneevb@twitter.com,394-258-6244,81 Mitchell Terrace,2021-08-31 22:38:36,2022-09-08 13:37:52
-13,Jerrold Aitken,Dorie Heasly,dheaslyc@msu.edu,891-646-9409,0 Myrtle Alley,2021-07-24 04:01:24,2022-04-05 08:36:18
-14,Griffin Scarman,Fairlie Lamputt,flamputtd@ed.gov,274-375-1530,2084 Loftsgordon Crossing,2021-02-17 08:51:38,2022-10-07 18:45:57
-15,Iorgo Nowick,Franky Winskill,fwinskille@chronoengine.com,135-552-3093,3 Helena Lane,2021-04-01 01:19:37,2022-10-19 01:08:10
-16,Kristine Bethune,Almeta Vardon,avardonf@msu.edu,774-305-2794,78 Sage Lane,2021-02-25 01:39:51,2022-03-01 20:39:52
-17,Moore Grimbleby,Rayner Rickersy,rrickersyg@deviantart.com,513-140-0315,4 Shelley Point,2021-06-14 01:16:31,2022-06-23 06:12:07
-18,Reginald Lauritzen,Adriana Rizzone,arizzoneh@studiopress.com,917-892-0130,58936 Bay Court,2021-07-02 20:00:12,2022-08-16 11:42:55
-19,Bettine Pfeffle,Abran Beaston,abeastoni@angelfire.com,883-594-0708,3 Banding Pass,2021-05-26 16:40:59,2022-08-19 19:13:20
-20,Frasco Yarn,Gerti Grabbam,ggrabbamj@weather.com,336-612-3775,6979 Corscot Crossing,2021-07-11 22:30:54,2022-12-01 23:10:33
-21,Cecilla Dunton,Dewie Watchorn,dwatchornk@deviantart.com,196-119-9913,87585 Namekagon Center,2021-10-08 02:35:32,2022-05-17 13:32:49
-22,Cathlene Drillingcourt,Cherilyn Petris,cpetrisl@who.int,397-990-6851,25703 Kedzie Parkway,2021-09-08 14:36:32,2022-10-26 11:03:12
-23,Leontyne Losel,Trudey Zmitrovich,tzmitrovichm@army.mil,318-799-2228,5 Lake View Crossing,2021-11-22 20:38:45,2022-06-07 21:55:41
-24,Sibeal Mangon,Gibb Goodridge,ggoodridgen@nbcnews.com,156-525-0082,0851 Norway Maple Junction,2021-08-18 19:26:34,2022-10-24 11:41:46
-25,Nomi Blasl,Bat Moohan,bmoohano@sogou.com,697-209-7212,7 Charing Cross Street,2021-12-18 01:30:10,2022-05-03 18:51:41
-26,Ronnica Bettles,Franny Perton,fpertonp@miibeian.gov.cn,139-695-4253,7169 Surrey Way,2021-05-15 21:00:00,2022-11-22 12:20:10
-27,Currie Toffetto,Cletus Crosseland,ccrosselandq@blog.com,713-851-8984,0 Oxford Court,2021-05-01 00:53:17,2022-08-03 00:35:12
-28,Cassaundra Eaton,Vito Eastway,veastwayr@imageshack.us,389-932-5899,8404 Corscot Park,2021-02-03 20:45:13,2022-07-09 04:09:12
-29,Alaine Dahlen,Geraldine Mastrantone,gmastrantones@harvard.edu,659-423-5120,1851 Continental Road,2021-09-05 23:15:35,2022-12-10 05:12:30
-30,Dinah Nayer,Reine Hadny,rhadnyt@canalblog.com,249-494-8388,88253 Farragut Way,2021-05-27 05:56:50,2022-08-31 16:14:49
-31,Matthew Chilles,Nikki Moulsdall,nmoulsdallu@upenn.edu,844-667-4050,63 Dakota Junction,2021-03-15 12:06:31,2022-12-14 10:24:37
-32,Loutitia Creek,Codie Kilmartin,ckilmartinv@jimdo.com,837-776-9450,04940 Bashford Circle,2021-02-06 03:23:47,2022-05-01 23:49:49
-33,Kitti Rydeard,Mikel Routham,mrouthamw@imdb.com,529-407-2895,13 Transport Center,2021-08-17 17:34:41,2022-03-19 05:20:27
-34,Harley Paradise,Keri Kibbee,kkibbeex@berkeley.edu,858-304-4077,6165 Trailsway Lane,2021-08-10 09:15:57,2022-06-13 22:35:33
-35,Gualterio Corless,Kory Cowdroy,kcowdroyy@kickstarter.com,594-892-0216,185 Brown Trail,2021-04-07 08:05:35,2022-07-23 09:35:27
-36,Ilsa Kitteridge,Bendite Baumert,bbaumertz@networkadvertising.org,137-522-0575,93 Union Plaza,2021-11-14 00:02:01,2022-12-11 15:01:51
-37,Federico Stoite,Nels Readmire,nreadmire10@intel.com,186-298-2667,52 Kropf Junction,2021-02-21 22:05:14,2022-08-25 11:59:28
-38,Dulce LeEstut,Diane-marie Buxey,dbuxey11@oakley.com,491-168-6300,14668 Fisk Circle,2021-04-08 20:03:53,2022-07-06 12:59:39
-39,Sada Gherardesci,Aida O'Concannon,aoconcannon12@hhs.gov,973-966-9576,7560 Eliot Point,2021-04-16 13:14:46,2022-02-07 20:26:00
-40,Troy Rowlatt,Manda Simonds,msimonds13@ox.ac.uk,830-503-5063,904 Rigney Court,2021-11-21 04:54:32,2022-10-02 04:32:31
-41,Fredi Bucher,Candice Dumbare,cdumbare14@sciencedaily.com,978-989-3079,8582 Grover Avenue,2021-09-16 13:30:16,2022-08-20 21:08:40
-42,Jaimie Gauche,Sherwin Zavattiero,szavattiero15@latimes.com,280-298-6900,316 Saint Paul Trail,2021-09-27 14:18:19,2022-02-04 12:39:22
-43,Ebonee Normavill,Tara Struttman,tstruttman16@senate.gov,442-127-6389,3 Laurel Hill,2021-11-12 06:19:31,2022-10-29 07:11:13
-44,Esdras Rochford,Barbette Bafford,bbafford17@wp.com,875-931-1121,957 Texas Court,2021-10-04 17:41:25,2022-04-16 16:53:10
-45,Lindon Evitt,Noreen Colbrun,ncolbrun18@google.es,972-535-2366,89656 Monument Lane,2021-07-20 09:56:28,2022-09-28 10:38:38
-46,Leandra Dowears,Sibylle Seide,sseide19@loc.gov,580-936-2149,447 Michigan Park,2021-11-09 16:16:34,2022-04-18 16:57:59
-47,Blinny Codron,Joela Hinckes,jhinckes1a@qq.com,163-304-2577,9 Village Hill,2021-05-11 11:17:50,2022-09-24 01:24:16
-48,Derron Scimonelli,Hildagarde Akister,hakister1b@dmoz.org,507-227-8684,4 Golf Course Crossing,2021-08-17 06:48:52,2022-02-14 08:24:07
-49,Karilynn Mapowder,Rickie Oliffe,roliffe1c@irs.gov,626-981-7435,89347 Graedel Street,2021-07-31 15:19:01,2022-08-29 23:27:00
-50,Nataline Bransby,Theobald Deek,tdeek1d@cloudflare.com,735-252-7948,99687 Fallview Drive,2021-05-01 03:14:46,2022-08-14 11:42:27
+"supplier_id";"name";"contact_name";"contact_email";"contact_phone";"address";"created_at";"updated_at"
+1;"Gerri Millwall";"Fair Bitten";"fbitten0@taobao.com";"564-942-7313";"5 Killdeer Terrace";"2021-03-10 04:05:51";"2022-10-22 15:00:36"
+2;"Shena Spradbery";"Lambert Salvador";"lsalvador1@flickr.com";"712-791-0091";"1313 Oak Valley Parkway";"2021-04-29 11:20:32";"2022-12-25 01:16:17"
+3;"Staci Bulcock";"Margeaux Steart";"msteart2@cam.ac.uk";"592-708-4105";"08875 Merrick Park";"2021-07-25 11:37:41";"2022-12-08 12:24:47"
+4;"Terrel Badini";"Edwin Rumford";"erumford3@shinystat.com";"130-656-8861";"51 Dennis Circle";"2021-11-27 15:49:16";"2022-05-06 22:07:15"
+5;"Clem Rotherforth";"Alfonso Passby";"apassby4@usda.gov";"995-828-9323";"44 Kim Road";"2021-12-08 10:40:52";"2022-06-24 14:39:25"
+6;"Kaela Ambrus";"Hildegaard Palek";"hpalek5@ft.com";"123-499-2836";"0 Magdeline Lane";"2021-11-09 14:54:14";"2022-07-24 11:29:05"
+7;"Gare Doag";"Carline Archambault";"carchambault6@addtoany.com";"953-160-9011";"437 Hoepker Street";"2021-10-30 08:44:39";"2022-02-18 11:33:47"
+8;"Tonia Caldicot";"Ebba Speddin";"espeddin7@webs.com";"850-636-2429";"6 Gerald Lane";"2021-01-26 20:31:11";"2022-06-21 18:32:08"
+9;"Ebba Isacke";"Cletus Innocenti";"cinnocenti8@biblegateway.com";"307-258-6375";"835 Bunker Hill Lane";"2021-10-24 18:11:50";"2022-01-29 12:40:00"
+10;"Rosy Brager";"Nona Railton";"nrailton9@buzzfeed.com";"848-321-3008";"3794 Eastlawn Place";"2021-09-19 09:56:12";"2022-04-18 13:02:19"
+11;"Oralia Greenly";"Verge Kleinbaum";"vkleinbauma@huffingtonpost.com";"838-819-9906";"15742 Milwaukee Road";"2021-04-24 10:29:45";"2022-01-16 10:35:35"
+12;"Colene O'Hagirtie";"Silvester Vedeneev";"svedeneevb@twitter.com";"394-258-6244";"81 Mitchell Terrace";"2021-08-31 22:38:36";"2022-09-08 13:37:52"
+13;"Jerrold Aitken";"Dorie Heasly";"dheaslyc@msu.edu";"891-646-9409";"0 Myrtle Alley";"2021-07-24 04:01:24";"2022-04-05 08:36:18"
+14;"Griffin Scarman";"Fairlie Lamputt";"flamputtd@ed.gov";"274-375-1530";"2084 Loftsgordon Crossing";"2021-02-17 08:51:38";"2022-10-07 18:45:57"
+15;"Iorgo Nowick";"Franky Winskill";"fwinskille@chronoengine.com";"135-552-3093";"3 Helena Lane";"2021-04-01 01:19:37";"2022-10-19 01:08:10"
+16;"Kristine Bethune";"Almeta Vardon";"avardonf@msu.edu";"774-305-2794";"78 Sage Lane";"2021-02-25 01:39:51";"2022-03-01 20:39:52"
+17;"Moore Grimbleby";"Rayner Rickersy";"rrickersyg@deviantart.com";"513-140-0315";"4 Shelley Point";"2021-06-14 01:16:31";"2022-06-23 06:12:07"
+18;"Reginald Lauritzen";"Adriana Rizzone";"arizzoneh@studiopress.com";"917-892-0130";"58936 Bay Court";"2021-07-02 20:00:12";"2022-08-16 11:42:55"
+19;"Bettine Pfeffle";"Abran Beaston";"abeastoni@angelfire.com";"883-594-0708";"3 Banding Pass";"2021-05-26 16:40:59";"2022-08-19 19:13:20"
+20;"Frasco Yarn";"Gerti Grabbam";"ggrabbamj@weather.com";"336-612-3775";"6979 Corscot Crossing";"2021-07-11 22:30:54";"2022-12-01 23:10:33"
+21;"Cecilla Dunton";"Dewie Watchorn";"dwatchornk@deviantart.com";"196-119-9913";"87585 Namekagon Center";"2021-10-08 02:35:32";"2022-05-17 13:32:49"
+22;"Cathlene Drillingcourt";"Cherilyn Petris";"cpetrisl@who.int";"397-990-6851";"25703 Kedzie Parkway";"2021-09-08 14:36:32";"2022-10-26 11:03:12"
+23;"Leontyne Losel";"Trudey Zmitrovich";"tzmitrovichm@army.mil";"318-799-2228";"5 Lake View Crossing";"2021-11-22 20:38:45";"2022-06-07 21:55:41"
+24;"Sibeal Mangon";"Gibb Goodridge";"ggoodridgen@nbcnews.com";"156-525-0082";"0851 Norway Maple Junction";"2021-08-18 19:26:34";"2022-10-24 11:41:46"
+25;"Nomi Blasl";"Bat Moohan";"bmoohano@sogou.com";"697-209-7212";"7 Charing Cross Street";"2021-12-18 01:30:10";"2022-05-03 18:51:41"
+26;"Ronnica Bettles";"Franny Perton";"fpertonp@miibeian.gov.cn";"139-695-4253";"7169 Surrey Way";"2021-05-15 21:00:00";"2022-11-22 12:20:10"
+27;"Currie Toffetto";"Cletus Crosseland";"ccrosselandq@blog.com";"713-851-8984";"0 Oxford Court";"2021-05-01 00:53:17";"2022-08-03 00:35:12"
+28;"Cassaundra Eaton";"Vito Eastway";"veastwayr@imageshack.us";"389-932-5899";"8404 Corscot Park";"2021-02-03 20:45:13";"2022-07-09 04:09:12"
+29;"Alaine Dahlen";"Geraldine Mastrantone";"gmastrantones@harvard.edu";"659-423-5120";"1851 Continental Road";"2021-09-05 23:15:35";"2022-12-10 05:12:30"
+30;"Dinah Nayer";"Reine Hadny";"rhadnyt@canalblog.com";"249-494-8388";"88253 Farragut Way";"2021-05-27 05:56:50";"2022-08-31 16:14:49"
+31;"Matthew Chilles";"Nikki Moulsdall";"nmoulsdallu@upenn.edu";"844-667-4050";"63 Dakota Junction";"2021-03-15 12:06:31";"2022-12-14 10:24:37"
+32;"Loutitia Creek";"Codie Kilmartin";"ckilmartinv@jimdo.com";"837-776-9450";"04940 Bashford Circle";"2021-02-06 03:23:47";"2022-05-01 23:49:49"
+33;"Kitti Rydeard";"Mikel Routham";"mrouthamw@imdb.com";"529-407-2895";"13 Transport Center";"2021-08-17 17:34:41";"2022-03-19 05:20:27"
+34;"Harley Paradise";"Keri Kibbee";"kkibbeex@berkeley.edu";"858-304-4077";"6165 Trailsway Lane";"2021-08-10 09:15:57";"2022-06-13 22:35:33"
+35;"Gualterio Corless";"Kory Cowdroy";"kcowdroyy@kickstarter.com";"594-892-0216";"185 Brown Trail";"2021-04-07 08:05:35";"2022-07-23 09:35:27"
+36;"Ilsa Kitteridge";"Bendite Baumert";"bbaumertz@networkadvertising.org";"137-522-0575";"93 Union Plaza";"2021-11-14 00:02:01";"2022-12-11 15:01:51"
+37;"Federico Stoite";"Nels Readmire";"nreadmire10@intel.com";"186-298-2667";"52 Kropf Junction";"2021-02-21 22:05:14";"2022-08-25 11:59:28"
+38;"Dulce LeEstut";"Diane-marie Buxey";"dbuxey11@oakley.com";"491-168-6300";"14668 Fisk Circle";"2021-04-08 20:03:53";"2022-07-06 12:59:39"
+39;"Sada Gherardesci";"Aida O'Concannon";"aoconcannon12@hhs.gov";"973-966-9576";"7560 Eliot Point";"2021-04-16 13:14:46";"2022-02-07 20:26:00"
+40;"Troy Rowlatt";"Manda Simonds";"msimonds13@ox.ac.uk";"830-503-5063";"904 Rigney Court";"2021-11-21 04:54:32";"2022-10-02 04:32:31"
+41;"Fredi Bucher";"Candice Dumbare";"cdumbare14@sciencedaily.com";"978-989-3079";"8582 Grover Avenue";"2021-09-16 13:30:16";"2022-08-20 21:08:40"
+42;"Jaimie Gauche";"Sherwin Zavattiero";"szavattiero15@latimes.com";"280-298-6900";"316 Saint Paul Trail";"2021-09-27 14:18:19";"2022-02-04 12:39:22"
+43;"Ebonee Normavill";"Tara Struttman";"tstruttman16@senate.gov";"442-127-6389";"3 Laurel Hill";"2021-11-12 06:19:31";"2022-10-29 07:11:13"
+44;"Esdras Rochford";"Barbette Bafford";"bbafford17@wp.com";"875-931-1121";"957 Texas Court";"2021-10-04 17:41:25";"2022-04-16 16:53:10"
+45;"Lindon Evitt";"Noreen Colbrun";"ncolbrun18@google.es";"972-535-2366";"89656 Monument Lane";"2021-07-20 09:56:28";"2022-09-28 10:38:38"
+46;"Leandra Dowears";"Sibylle Seide";"sseide19@loc.gov";"580-936-2149";"447 Michigan Park";"2021-11-09 16:16:34";"2022-04-18 16:57:59"
+47;"Blinny Codron";"Joela Hinckes";"jhinckes1a@qq.com";"163-304-2577";"9 Village Hill";"2021-05-11 11:17:50";"2022-09-24 01:24:16"
+48;"Derron Scimonelli";"Hildagarde Akister";"hakister1b@dmoz.org";"507-227-8684";"4 Golf Course Crossing";"2021-08-17 06:48:52";"2022-02-14 08:24:07"
+49;"Karilynn Mapowder";"Rickie Oliffe";"roliffe1c@irs.gov";"626-981-7435";"89347 Graedel Street";"2021-07-31 15:19:01";"2022-08-29 23:27:00"
+50;"Nataline Bransby";"Theobald Deek";"tdeek1d@cloudflare.com";"735-252-7948";"99687 Fallview Drive";"2021-05-01 03:14:46";"2022-08-14 11:42:27"
